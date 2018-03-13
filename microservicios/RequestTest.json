@@ -1,0 +1,37 @@
+{
+	"idcustomer": "54321",
+	"product": {
+		"name": "Bombilla 12 Voltios",
+		"description": "Bombilla de 12 Voltios nacional",
+		"value": 150000,
+		"initialStock": 20,
+		"categories": [{
+				"name": "Luminarias",
+				"description": "Descripción de las luminarias"
+			},
+			{
+				"name": "Iluminación Interna",
+				"description": "Descripción de la iluminación interna"
+			}
+		],
+		"images": [{
+				"name": "Imagen1.jpg",
+				"path": "http://hosting.com/imagen1.jpg"
+			},
+			{
+				"name": "Imagen2.jpg",
+				"path": "http://hosting.com/imagen2.jpg"
+			},
+			{
+				"name": "Imagen3.jpg",
+				"path": "http://hosting.com/imagen3.jpg"
+			},
+			{
+				"name": "Imagen4.jpg",
+				"path": "http://hosting.com/imagen4.jpg"
+			}
+		],
+		"outstanding": true
+	},
+	"failonpublish": false
+}
